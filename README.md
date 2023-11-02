@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  JAVA - Estudos e Testes</h2>
+<h2 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  JAVA - Estudos e Testes
 
 <i><h4 align="center">Estudos utilizando recursos do aprendizado de programação JAVA.</h4></i> 
 
